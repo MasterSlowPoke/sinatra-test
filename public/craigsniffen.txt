@@ -6,5 +6,6 @@ http://craigsniffen.com/resume2013.pdf - it's kinda old
 https://www.facebook.com/craig.sniffen
 https://twitter.com/masterslowpoke
 https://github.com/MasterSlowPoke/
+http://www.codeplex.com/site/users/view/MasterSlowPoke
 
 I'm a Wyncode student looking to secure a Junior Developer position at a programming studio somewhere.
